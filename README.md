@@ -1,5 +1,3 @@
-## Hi there 👋
-
 <!--
 **Fabiano-Felipe/Fabiano-Felipe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -33,7 +31,6 @@ Ship fast, iterate later.
 **Backend:** Python, Django, FastAPI
 **Frontend:** JavaScript, React, TypeScript  
 **DevOps:** Docker, AWS, PostgreSQL  
-
 
 ## 2026 Focus
 
