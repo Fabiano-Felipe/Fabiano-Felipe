@@ -14,3 +14,30 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+# Fabiano Sousa
+
+Full-Stack Developer | Python • Django • JavaScript • React
+
+📍 Brasília, Brazil 
+
+Building Enterprise-grade, production-ready applications integrated with AI
+
+## My Goals
+ Ship quality code, learn continuously
+
+## My Philosophy 
+Ship fast, iterate later.
+
+## Current Stack
+
+**Backend:** Python, Django, FastAPI
+**Frontend:** JavaScript, React, TypeScript  
+**DevOps:** Docker, AWS, PostgreSQL  
+
+
+## 2026 Focus
+
+- Building my portfolio projects
+- Mastering AI-Native code
+- AWS cloud deployments
+- Contributing to open source
