@@ -38,3 +38,6 @@ Ship fast, iterate later.
 - Mastering AI-Native code
 - AWS cloud deployments
 - Contributing to open source
+
+## GitHub Activity
+<img width="646" height="102" alt="Screenshot-git-activity" src="https://github.com/user-attachments/assets/2a0b0ac8-2996-41c4-902d-906764bedb5a" />
