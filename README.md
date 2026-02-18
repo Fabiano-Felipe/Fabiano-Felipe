@@ -43,7 +43,8 @@ Ship fast, iterate later.
 - Coding everyday!
 
 ## PROFESSIONAL SUMMARY
-Software Engineer and self-driven Python developer with 15+ years of experience in large-scale infrastructure and systems integration. Brings a strong engineering mindset to backend development — comfortable designing distributed systems, REST APIs, and automation pipelines from hands-on experience managing mission-critical networks at national scale. Experienced with Python scripting, system automation, and network programmability. Pursuing a Bachelor's degree in Software Engineering (expected 2028) with a growing focus on backend architecture, databases, and cloud-native development. Seeking a backend or Python developer role in the EU; eligible for Employment Permit sponsorship (GEP / Critical Skills). Open to immediate relocation within Europe. Target compensation €60,000–€90,000.
+Software Engineer and self-driven Python developer with 15+ years of experience in large-scale infrastructure and systems integration. Brings a strong engineering mindset to backend development — comfortable designing distributed systems, REST APIs, and automation pipelines from hands-on experience managing mission-critical networks at national scale. Experienced with Python scripting, system automation, and network programmability. Focus on backend architecture, databases, and cloud-native development. Seeking a backend or Python developer role in the EU; eligible for Employment Permit sponsorship (GEP / Critical Skills). Open to immediate relocation within Europe.
+
 **TECHNICAL SKILLS**
 •	Languages & Scripting: Python, Bash/Shell scripting, YAML, JSON, XML
 •	Backend & APIs: REST API design, automation pipelines, system integration, CLI tooling
@@ -51,7 +52,8 @@ Software Engineer and self-driven Python developer with 15+ years of experience 
 •	Databases: SQL basics, structured data handling, configuration databases
 •	Networking & Protocols: TCP/IP, BGP, OSPF, MPLS, SD-WAN, IPv4/IPv6 — strong foundation for network-layer backend work
 •	Tools & Practices: Git/GitHub, ITIL change management, CI/CD concepts, Agile/Scrum, JIRA, technical documentation
-•	Environments: Linux (Ubuntu, CentOS), Windows Server, multi-vendor CLI (Huawei VRP, Cisco IOS, HP Comware)
+•	Environments: Linux (Ubuntu, CentOS), Windows Server, multi-vendor CLI (Huawei VRP, Cisco IOS, HP)
+
 **WORK EXPERIENCE**
 Huawei Technologies  |  Senior Network Automation Engineer  |  Dec 2024 – Present
 •	Developed and maintained Python automation scripts to streamline configuration deployment across 18,000+ switches and 7,000+ sites, reducing manual effort on large-scale rollouts.
@@ -75,15 +77,18 @@ Stefanini  |  Backend & VoIP Systems Developer  |  Sep 2017 – Nov 2022
 A7 Telecom  |  Systems & Infrastructure Technician  |  Jan 2012 – Sep 2017
 •	Installed and commissioned datacom equipment and PABX systems across enterprise sites.
 •	Performed network diagnostics and preventive maintenance, building deep understanding of low-level protocols and system behavior.
+
 **EDUCATION**
 Bachelor of Software Engineering — UNINTER | 2024 – 2028
 Bachelor of Economics & Finance — Catholic University of Brasília | 2019 – 2023
 Technical Degree in Telecommunications — Institute Forma Brazil | 2021 – 2022
+
 **CERTIFICATIONS**
 •	PMP – Project Management Professional (PMI)
 •	HCIP – Huawei Certified ICT Professional – Datacom
 •	HCIA – Huawei Certified ICT Associate – Datacom
 •	OCI – Oracle Cloud Infrastructure Architect Associate
+
 **LANGUAGES**
 •	English – Fluent (CEFR C2)
 •	Portuguese – Native
