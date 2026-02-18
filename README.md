@@ -40,4 +40,51 @@ Ship fast, iterate later.
 - Contributing to open source
 
 ## GitHub Activity
-<img width="646" height="102" alt="Screenshot-git-activity" src="https://github.com/user-attachments/assets/2a0b0ac8-2996-41c4-902d-906764bedb5a" />
+- Coding everyday!
+
+## PROFESSIONAL SUMMARY
+Software Engineer and self-driven Python developer with 15+ years of experience in large-scale infrastructure and systems integration. Brings a strong engineering mindset to backend development — comfortable designing distributed systems, REST APIs, and automation pipelines from hands-on experience managing mission-critical networks at national scale. Experienced with Python scripting, system automation, and network programmability. Pursuing a Bachelor's degree in Software Engineering (expected 2028) with a growing focus on backend architecture, databases, and cloud-native development. Seeking a backend or Python developer role in the EU; eligible for Employment Permit sponsorship (GEP / Critical Skills). Open to immediate relocation within Europe. Target compensation €60,000–€90,000.
+**TECHNICAL SKILLS**
+•	Languages & Scripting: Python, Bash/Shell scripting, YAML, JSON, XML
+•	Backend & APIs: REST API design, automation pipelines, system integration, CLI tooling
+•	Cloud & Infrastructure: Oracle Cloud Infrastructure (OCI), Linux server administration, Docker (familiar)
+•	Databases: SQL basics, structured data handling, configuration databases
+•	Networking & Protocols: TCP/IP, BGP, OSPF, MPLS, SD-WAN, IPv4/IPv6 — strong foundation for network-layer backend work
+•	Tools & Practices: Git/GitHub, ITIL change management, CI/CD concepts, Agile/Scrum, JIRA, technical documentation
+•	Environments: Linux (Ubuntu, CentOS), Windows Server, multi-vendor CLI (Huawei VRP, Cisco IOS, HP Comware)
+**WORK EXPERIENCE**
+Huawei Technologies  |  Senior Network Automation Engineer  |  Dec 2024 – Present
+•	Developed and maintained Python automation scripts to streamline configuration deployment across 18,000+ switches and 7,000+ sites, reducing manual effort on large-scale rollouts.
+•	Built tooling to automate data collection, health checks, and reporting for a national SD-WAN deployment covering 5,000 sites.
+•	Designed and documented Proofs of Concept (PoCs) integrating automation pipelines into project delivery workflows for major clients (Caixa Econômica Federal, Bank of Brazil).
+•	Collaborated with TAC/GTAC engineering teams to troubleshoot and resolve complex backbone incidents, applying systematic debugging methodologies transferable to software engineering.
+•	Contributed to scope definition, technical documentation, and change management for multi-site infrastructure programs.
+Oi Fiber Carrier  |  Network Automation & Systems Integration Specialist  |  Jul 2023 – Dec 2024
+•	Automated recurring configuration tasks and network audit workflows using Python and Bash scripting, improving team efficiency in a high-volume NOC environment.
+•	Built internal scripts to parse logs, correlate incidents, and generate structured technical reports for Caixa Econômica Federal's nationwide network.
+•	Implemented security hardening policies and dynamic routing configurations across Cisco and HP routers using scripted deployment methods.
+•	Maintained VLAN segmentation logic and documented network topology changes, applying version-control-style discipline to configuration management.
+Teledata  |  Systems & Automation Engineer  |  Dec 2022 – Jun 2023
+•	Developed operational runbooks and automation procedures for Asterisk/VoIP systems, reducing mean time to resolution on PBX incidents.
+•	Integrated new features into Asterisk (dialplan scripting, IVR logic, unified messaging) — directly relevant to backend logic and event-driven programming.
+•	Conducted performance audits and produced structured technical reports; mentored junior engineers on troubleshooting methodology.
+Stefanini  |  Backend & VoIP Systems Developer  |  Sep 2017 – Nov 2022
+•	Automated complex call-routing logic in Asterisk using dialplan and AGI scripting (Python/PHP), building custom IVR flows and integration hooks.
+•	Led implementations of new PBX systems end-to-end, managing technical design, testing, and deployment — experience directly analogous to backend service delivery.
+•	Mentored junior team members and produced internal documentation, establishing repeatable processes for configuration and incident response.
+A7 Telecom  |  Systems & Infrastructure Technician  |  Jan 2012 – Sep 2017
+•	Installed and commissioned datacom equipment and PABX systems across enterprise sites.
+•	Performed network diagnostics and preventive maintenance, building deep understanding of low-level protocols and system behavior.
+**EDUCATION**
+Bachelor of Software Engineering — UNINTER | 2024 – 2028
+Bachelor of Economics & Finance — Catholic University of Brasília | 2019 – 2023
+Technical Degree in Telecommunications — Institute Forma Brazil | 2021 – 2022
+**CERTIFICATIONS**
+•	PMP – Project Management Professional (PMI)
+•	HCIP – Huawei Certified ICT Professional – Datacom
+•	HCIA – Huawei Certified ICT Associate – Datacom
+•	OCI – Oracle Cloud Infrastructure Architect Associate
+**LANGUAGES**
+•	English – Fluent (CEFR C2)
+•	Portuguese – Native
+•	German – Intermediate (CEFR B1)
