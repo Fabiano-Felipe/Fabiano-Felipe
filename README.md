@@ -15,7 +15,6 @@ Here are some ideas to get you started:
 # Fabiano Sousa
 
 Full-Stack Developer | Backend Engineer
-
 Python • Django • FastAPI | JavaScript • Typescript • React • Next
 
 📍 Brasília, Brazil 
@@ -23,7 +22,7 @@ Python • Django • FastAPI | JavaScript • Typescript • React • Next
 Building Enterprise-grade, production-ready applications integrated with AI
 
 ## My Goals
- Ship quality code, learn continuously
+ Ship quality code, learn continuously.
 
 ## My Philosophy 
 Ship fast, iterate later.
