@@ -106,17 +106,22 @@ Software Engineer and self-driven Python developer with 15+ years of experience 
 •	Performed network diagnostics and preventive maintenance, building deep understanding of low-level protocols and system behavior.
 
 ## Education
-Bachelor of Software Engineering — UNINTER | 2024 – 2028  
-Bachelor of Economics & Finance — Catholic University of Brasília | 2019 – 2023  
-Technical Degree in Telecommunications — Institute Forma Brazil | 2021 – 2022 
-
+<ul> 
+<li>Bachelor of Software Engineering — UNINTER | 2024 – 2028</li>
+<li>Bachelor of Economics & Finance — Catholic University of Brasília | 2019 – 2023</li>
+<li>Technical Degree in Telecommunications — Institute Forma Brazil | 2021 – 2022</li>
+</ul>
 ## Certifications
-AWS – Solutions Architect Professional - Cloud Specialist
-HCIP – Huawei Certified ICT Professional – Datacom
-HCIA – Huawei Certified ICT Associate – Datacom
-OCI – Oracle Cloud Infrastructure Architect Associate 
+<ul>
+<li>AWS – Solutions Architect Professional - Cloud Specialist</li>
+<li>HCIP – Huawei Certified ICT Professional – Datacom</li>
+<li>HCIA – Huawei Certified ICT Associate – Datacom</li>
+<li>OCI – Oracle Cloud Infrastructure Architect Associate</li> 
+</ul>
 
 ## Languages
-English – Fluent (CEFR C2) 
-Portuguese – Native 
-German – Intermediate (CEFR B1) 
+<ul>  
+<li>English – Fluent (CEFR C2)</li> 
+<li>Portuguese – Native</li>
+<li>German – Intermediate (CEFR B1)</li> 
+</ul>
