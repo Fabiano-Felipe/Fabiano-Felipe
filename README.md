@@ -17,7 +17,10 @@ Here are some ideas to get you started:
 Full-Stack Developer | Backend Engineer
 | Python • Django • FastAPI | JavaScript • Typescript • React • Next
 
-📍 Brasília, Brazil 
+fabianofelipe.com | Portfolio
+Labirinto.ai | Closed-source
+
+📍 Brasília, Brazil  UTC -03:00
 
 Building Enterprise-grade, production-ready applications integrated with AI-Native code.
 
@@ -30,8 +33,8 @@ Ship fast, iterate later.
 ## Current Stack
 
 **Backend:** Python, Django, FastAPI
-**Frontend:** JavaScript, React, TypeScript  
-**DevOps:** Docker, AWS, PostgreSQL  
+**Frontend:** JavaScript, TypeScript, React,   
+**DevOps:** Docker, Kubernetes, AWS, PostgreSQL, Redis  
 
 ## 2026 Focus
 
