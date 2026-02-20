@@ -37,19 +37,16 @@ Ship fast, iterate later.
 <p>
 Ship quality code, learn continuously.
 </p>
-## Current Stack
-Python (AI/ML) + TypeScript/React (Full-stack)
-<p>
 
-## Tech Stack
+## Current Stack
 <p>
-**Backend:** Python, Django, FastAPI
+Backend: Python, Django, FastAPI
 </p>
 <p>
-**Frontend:** JavaScript, TypeScript, React
+Frontend: JavaScript, TypeScript, React
 </p>
 <p>
-**DevOps:** Docker, Kubernetes, AWS, PostgreSQL, Redis  
+DevOps: Docker, Kubernetes, AWS, PostgreSQL, Redis  
 </p>
 
 ## 2026 Focus
