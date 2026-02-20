@@ -40,9 +40,14 @@ Ship quality code, learn continuously.
 ## Current Stack
 Python (AI/ML) + TypeScript/React (Full-stack)
 <p>
+
+## Tech Stack
+<p>
 **Backend:** Python, Django, FastAPI
 </p>
+<p>
 **Frontend:** JavaScript, TypeScript, React
+</p>
 <p>
 **DevOps:** Docker, Kubernetes, AWS, PostgreSQL, Redis  
 </p>
