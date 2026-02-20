@@ -34,8 +34,9 @@ Building Enterprise-grade, production-ready applications integrated with AI-Nati
 
 ## My Philosophy 
 Ship fast, iterate later.
+<p>
 Ship quality code, learn continuously.
-
+</p>
 ## Current Stack
 Python (AI/ML) + TypeScript/React (Full-stack)
 <p>
