@@ -76,7 +76,10 @@ DevOps: Docker, Kubernetes, AWS, PostgreSQL, Redis
 - Dreaming about the future - Learning and building AI tools for everyone
 - Research & Developing AI Models
 
-## Professional Summary
+## About me
+A great life is good food, reading sci-fi books, watching new movies and coding.
+
+## Professional Summary 
 Software Engineer and self-driven Python developer with 15+ years of experience in large-scale infrastructure and systems integration. Brings a strong engineering mindset to backend development — comfortable designing distributed systems, REST APIs, and automation pipelines from hands-on experience managing mission-critical networks at national scale. Experienced with Python scripting, system automation, and network programmability. Focus on backend architecture, databases, and cloud-native development. Seeking a backend or Python developer role in the EU; eligible for Employment Permit sponsorship (GEP / Critical Skills). Open to immediate relocation within Europe.
 
 ## Technical Skills
