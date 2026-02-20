@@ -33,10 +33,17 @@ Brasília, Brazil
 Building Enterprise-grade, production-ready applications integrated with AI-Native code.
 
 ## My Philosophy 
-Ship fast, iterate later.
-<p>
-Ship quality code, learn continuously.
-</p>
+<ul> 
+  <li>Ship fast, iterate later.</li> 
+  <li>Ship quality code, learn continuously.</li> 
+  <li>Ship before you polish; polish what you ship.</li> 
+  <li>Ship value, not complexity.</li> 
+  <li>Ship daily progress, even if tiny.</li> 
+  <li>Ship the minimum that works; expand from proof.</li> 
+  <li>Ship small and increment, grand intentions alone aren't worth anything.</li> 
+  <li>Ship working prototypes before architectural debates.</li> 
+  <li>Ship small, ship soon, ship bad things, but do ship something, because perfect concepts can't be validated.</li> 
+</ul>
 
 ## Current Stack
 <p>
