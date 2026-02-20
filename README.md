@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 Full-Stack Developer | Backend Engineer
 | Python • Django • FastAPI | JavaScript • Typescript • React • Next
 
-https://www.fabianofelipe.com/ | Portfolio
+Portfolio --> https://www.fabianofelipe.com/ 
 
 📍 Brasília, Brazil  UTC -03:00
 
