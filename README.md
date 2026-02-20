@@ -14,8 +14,13 @@ Here are some ideas to get you started:
 -->
 # Fabiano Sousa
 
-Full-Stack Developer | Back-end Engineer | AI-Native Engineer
-| Python • Django • FastAPI | JavaScript • Typescript • React • Next
+Full-Stack Developer | Backend Engineer | AI-Native Engineer
+<p>
+Python • Django • FastAPI
+</p>
+<p>
+JavaScript • Typescript • React • Next
+</p>
 
 ## Timezone
 **UTC -03:00**
