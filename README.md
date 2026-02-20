@@ -17,9 +17,9 @@ Here are some ideas to get you started:
 Full-Stack Developer | Backend Engineer
 | Python • Django • FastAPI | JavaScript • Typescript • React • Next
 
-Portfolio --> https://www.fabianofelipe.com/ 
+**Portfolio** |  https://www.fabianofelipe.com/ 
 
-📍 Brasília, Brazil  UTC -03:00
+Brasília, Brazil  **UTC -03:00**
 
 Building Enterprise-grade, production-ready applications integrated with AI-Native code.
 
@@ -30,13 +30,11 @@ Building Enterprise-grade, production-ready applications integrated with AI-Nati
 Ship fast, iterate later.
 
 ## Current Stack
-
 **Backend:** Python, Django, FastAPI
 **Frontend:** JavaScript, TypeScript, React,   
 **DevOps:** Docker, Kubernetes, AWS, PostgreSQL, Redis  
 
 ## 2026 Focus
-
 - Building my portfolio projects
 - Mastering AI-Native code
 - AWS cloud deployments
@@ -45,23 +43,21 @@ Ship fast, iterate later.
 ## GitHub Activity
 - Coding everyday!
 
-## Open-source Projects
-
+## Open-source Projects | Contributing
 - Bitcoin
 - Anki
 - OpenClaw
 - HuggingFace
 
 ## What I'm Doing
-
 - Rapid prototyping - Ship apps in days, not months
 - Dreaming about the future - Learning and building AI tools for everyone
 - Research & Developing AI Models
 
-## PROFESSIONAL SUMMARY
+## Professional Summary
 Software Engineer and self-driven Python developer with 15+ years of experience in large-scale infrastructure and systems integration. Brings a strong engineering mindset to backend development — comfortable designing distributed systems, REST APIs, and automation pipelines from hands-on experience managing mission-critical networks at national scale. Experienced with Python scripting, system automation, and network programmability. Focus on backend architecture, databases, and cloud-native development. Seeking a backend or Python developer role in the EU; eligible for Employment Permit sponsorship (GEP / Critical Skills). Open to immediate relocation within Europe.
 
-## TECHNICAL SKILLS
+## Technical Skills
 •	Languages & Scripting: Python, Bash/Shell scripting, YAML, JSON, XML
 •	Backend & APIs: REST API design, automation pipelines, system integration, CLI tooling
 •	Cloud & Infrastructure: Oracle Cloud Infrastructure (OCI), Linux server administration, Docker (familiar)
@@ -70,7 +66,7 @@ Software Engineer and self-driven Python developer with 15+ years of experience 
 •	Tools & Practices: Git/GitHub, ITIL change management, CI/CD concepts, Agile/Scrum, JIRA, technical documentation
 •	Environments: Linux (Ubuntu, CentOS), Windows Server, multi-vendor CLI (Huawei VRP, Cisco IOS, HP)
 
-## WORK EXPERIENCE
+## Work Experience
 Huawei Technologies  |  Senior Network Automation Engineer  |  Dec 2024 – Present
 •	Developed and maintained Python automation scripts to streamline configuration deployment across 18,000+ switches and 7,000+ sites, reducing manual effort on large-scale rollouts.
 •	Built tooling to automate data collection, health checks, and reporting for a national SD-WAN deployment covering 5,000 sites.
@@ -98,19 +94,18 @@ Huawei Technologies  |  Senior Network Automation Engineer  |  Dec 2024 – Pres
 •	Installed and commissioned datacom equipment and PABX systems across enterprise sites.
 •	Performed network diagnostics and preventive maintenance, building deep understanding of low-level protocols and system behavior.
 
-## EDUCATION
-
+## Education
 Bachelor of Software Engineering — UNINTER | 2024 – 2028  
 Bachelor of Economics & Finance — Catholic University of Brasília | 2019 – 2023  
 Technical Degree in Telecommunications — Institute Forma Brazil | 2021 – 2022 
 
-## CERTIFICATIONS
+## Certifications
 AWS – Solutions Architect Professional - Cloud Specialist
 HCIP – Huawei Certified ICT Professional – Datacom
 HCIA – Huawei Certified ICT Associate – Datacom
 OCI – Oracle Cloud Infrastructure Architect Associate 
 
-## LANGUAGES
+## Languages
 English – Fluent (CEFR C2) 
 Portuguese – Native 
 German – Intermediate (CEFR B1) 
