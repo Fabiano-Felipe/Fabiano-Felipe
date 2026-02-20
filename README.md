@@ -111,6 +111,7 @@ Software Engineer and self-driven Python developer with 15+ years of experience 
 <li>Bachelor of Economics & Finance — Catholic University of Brasília | 2019 – 2023</li>
 <li>Technical Degree in Telecommunications — Institute Forma Brazil | 2021 – 2022</li>
 </ul>
+
 ## Certifications
 <ul>
 <li>AWS – Solutions Architect Professional - Cloud Specialist</li>
