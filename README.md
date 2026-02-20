@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 -->
 # Fabiano Sousa
 
-Full-Stack Developer | Backend Engineer
+Full-Stack Developer | Back-end Engineer | AI-Native Engineer
 | Python • Django • FastAPI | JavaScript • Typescript • React • Next
 
 **UTC -03:00**
@@ -31,6 +31,7 @@ Ship fast, iterate later.
 Ship quality code, learn continuously.
 
 ## Current Stack
+Python (AI/ML) + TypeScript/React (Full-stack)
 **Backend:** Python, Django, FastAPI
 **Frontend:** JavaScript, TypeScript, React,   
 **DevOps:** Docker, Kubernetes, AWS, PostgreSQL, Redis  
