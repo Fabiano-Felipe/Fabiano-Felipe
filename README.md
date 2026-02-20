@@ -40,7 +40,9 @@ Ship quality code, learn continuously.
 Python (AI/ML) + TypeScript/React (Full-stack)
 <p>
 **Backend:** Python, Django, FastAPI
-**Frontend:** JavaScript, TypeScript, React,   
+</p>
+**Frontend:** JavaScript, TypeScript, React
+<p>
 **DevOps:** Docker, Kubernetes, AWS, PostgreSQL, Redis  
 </p>
 
