@@ -17,17 +17,18 @@ Here are some ideas to get you started:
 Full-Stack Developer | Backend Engineer
 | Python • Django • FastAPI | JavaScript • Typescript • React • Next
 
-**Portfolio** |  https://www.fabianofelipe.com/ 
+**UTC -03:00**
+Brasília, Brazil  
 
-Brasília, Brazil  **UTC -03:00**
-
-Building Enterprise-grade, production-ready applications integrated with AI-Native code.
+**Portfolio**
+https://www.fabianofelipe.com/ 
 
 ## My Goals
- Ship quality code, learn continuously.
+Building Enterprise-grade, production-ready applications integrated with AI-Native code.
 
 ## My Philosophy 
 Ship fast, iterate later.
+Ship quality code, learn continuously.
 
 ## Current Stack
 **Backend:** Python, Django, FastAPI
