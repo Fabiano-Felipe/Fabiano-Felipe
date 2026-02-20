@@ -17,10 +17,11 @@ Here are some ideas to get you started:
 Full-Stack Developer | Back-end Engineer | AI-Native Engineer
 | Python • Django • FastAPI | JavaScript • Typescript • React • Next
 
+## Timezone
 **UTC -03:00**
 Brasília, Brazil  
 
-**Portfolio**
+## Portfolio
 <a href="https://www.fabianofelipe.com/">fabianofelipe.com</a>
 
 ## My Goals
