@@ -21,7 +21,7 @@ Full-Stack Developer | Back-end Engineer | AI-Native Engineer
 Brasília, Brazil  
 
 **Portfolio**
-https://www.fabianofelipe.com/ 
+<a href="https://www.fabianofelipe.com/">fabianofelipe.com</a>
 
 ## My Goals
 Building Enterprise-grade, production-ready applications integrated with AI-Native code.
