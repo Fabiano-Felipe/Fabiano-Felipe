@@ -18,7 +18,6 @@ Full-Stack Developer | Backend Engineer
 | Python • Django • FastAPI | JavaScript • Typescript • React • Next
 
 fabianofelipe.com | Portfolio
-Labirinto.ai | Closed-source
 
 📍 Brasília, Brazil  UTC -03:00
 
@@ -46,10 +45,23 @@ Ship fast, iterate later.
 ## GitHub Activity
 - Coding everyday!
 
+## Open-source Projects
+
+- Bitcoin
+- Anki
+- OpenClaw
+- HuggingFace
+
+## What I'm Doing
+
+- Rapid prototyping - Ship apps in days, not months
+- Dreaming about the future - Learning and building AI tools for everyone
+- Research & Developing AI Models
+
 ## PROFESSIONAL SUMMARY
 Software Engineer and self-driven Python developer with 15+ years of experience in large-scale infrastructure and systems integration. Brings a strong engineering mindset to backend development — comfortable designing distributed systems, REST APIs, and automation pipelines from hands-on experience managing mission-critical networks at national scale. Experienced with Python scripting, system automation, and network programmability. Focus on backend architecture, databases, and cloud-native development. Seeking a backend or Python developer role in the EU; eligible for Employment Permit sponsorship (GEP / Critical Skills). Open to immediate relocation within Europe.
 
-**TECHNICAL SKILLS**
+## TECHNICAL SKILLS
 •	Languages & Scripting: Python, Bash/Shell scripting, YAML, JSON, XML
 •	Backend & APIs: REST API design, automation pipelines, system integration, CLI tooling
 •	Cloud & Infrastructure: Oracle Cloud Infrastructure (OCI), Linux server administration, Docker (familiar)
@@ -58,7 +70,7 @@ Software Engineer and self-driven Python developer with 15+ years of experience 
 •	Tools & Practices: Git/GitHub, ITIL change management, CI/CD concepts, Agile/Scrum, JIRA, technical documentation
 •	Environments: Linux (Ubuntu, CentOS), Windows Server, multi-vendor CLI (Huawei VRP, Cisco IOS, HP)
 
-**WORK EXPERIENCE**
+## WORK EXPERIENCE
 Huawei Technologies  |  Senior Network Automation Engineer  |  Dec 2024 – Present
 •	Developed and maintained Python automation scripts to streamline configuration deployment across 18,000+ switches and 7,000+ sites, reducing manual effort on large-scale rollouts.
 •	Built tooling to automate data collection, health checks, and reporting for a national SD-WAN deployment covering 5,000 sites.
@@ -66,39 +78,39 @@ Huawei Technologies  |  Senior Network Automation Engineer  |  Dec 2024 – Pres
 •	Collaborated with TAC/GTAC engineering teams to troubleshoot and resolve complex backbone incidents, applying systematic debugging methodologies transferable to software engineering.
 •	Contributed to scope definition, technical documentation, and change management for multi-site infrastructure programs.
 
-Oi Fiber Carrier  |  Network Automation & Systems Integration Specialist  |  Jul 2023 – Dec 2024
+**Oi Fiber Carrier  |  Network Automation & Systems Integration Specialist  |  Jul 2023 – Dec 2024**
 •	Automated recurring configuration tasks and network audit workflows using Python and Bash scripting, improving team efficiency in a high-volume NOC environment.
 •	Built internal scripts to parse logs, correlate incidents, and generate structured technical reports for Caixa Econômica Federal's nationwide network.
 •	Implemented security hardening policies and dynamic routing configurations across Cisco and HP routers using scripted deployment methods.
 •	Maintained VLAN segmentation logic and documented network topology changes, applying version-control-style discipline to configuration management.
 
-Teledata  |  Systems & Automation Engineer  |  Dec 2022 – Jun 2023
+**Teledata  |  Systems & Automation Engineer  |  Dec 2022 – Jun 2023**
 •	Developed operational runbooks and automation procedures for Asterisk/VoIP systems, reducing mean time to resolution on PBX incidents.
 •	Integrated new features into Asterisk (dialplan scripting, IVR logic, unified messaging) — directly relevant to backend logic and event-driven programming.
 •	Conducted performance audits and produced structured technical reports; mentored junior engineers on troubleshooting methodology.
 
-Stefanini  |  Backend & VoIP Systems Developer  |  Sep 2017 – Nov 2022
+**Stefanini  |  Backend & VoIP Systems Developer  |  Sep 2017 – Nov 2022**
 •	Automated complex call-routing logic in Asterisk using dialplan and AGI scripting (Python/PHP), building custom IVR flows and integration hooks.
 •	Led implementations of new PBX systems end-to-end, managing technical design, testing, and deployment — experience directly analogous to backend service delivery.
 •	Mentored junior team members and produced internal documentation, establishing repeatable processes for configuration and incident response.
 
-A7 Telecom  |  Systems & Infrastructure Technician  |  Jan 2012 – Sep 2017
+**A7 Telecom  |  Systems & Infrastructure Technician  |  Jan 2012 – Sep 2017**
 •	Installed and commissioned datacom equipment and PABX systems across enterprise sites.
 •	Performed network diagnostics and preventive maintenance, building deep understanding of low-level protocols and system behavior.
 
-**EDUCATION**
+## EDUCATION
 
 Bachelor of Software Engineering — UNINTER | 2024 – 2028  
 Bachelor of Economics & Finance — Catholic University of Brasília | 2019 – 2023  
 Technical Degree in Telecommunications — Institute Forma Brazil | 2021 – 2022 
 
-**CERTIFICATIONS**
+## CERTIFICATIONS
 AWS – Solutions Architect Professional - Cloud Specialist
 HCIP – Huawei Certified ICT Professional – Datacom
 HCIA – Huawei Certified ICT Associate – Datacom
 OCI – Oracle Cloud Infrastructure Architect Associate 
 
-**LANGUAGES**
+## LANGUAGES
 English – Fluent (CEFR C2) 
 Portuguese – Native 
 German – Intermediate (CEFR B1) 
