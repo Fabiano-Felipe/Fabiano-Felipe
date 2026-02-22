@@ -15,7 +15,7 @@
 
 ## About Me
 
-Software Engineer and Full Stack Python Developer with **15+ years of experience** in large-scale infrastructure, systems integration, and backend automation. Currently building AI-native applications and production-grade backend systems. Deep expertise in cloud-native architecture and Backend Engineering.
+Software Engineer and Full Stack Python Developer with **15 years of experience** in large-scale infrastructure, systems integration, and backend automation. Currently building AI-native applications and production-grade backend systems. Deep expertise in cloud-native architecture and Backend Engineering.
 
 Background spans from national-scale network programmability at **Huawei** and **Oi Fiber Carrier** to backend/VoIP systems at **Stefanini** — having a strong foundation in distributed systems, automation pipelines, and real-world production environments.
 
