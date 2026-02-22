@@ -15,11 +15,11 @@
 
 ## About Me
 
-Software Engineer and self-driven Python developer with **15+ years of experience** in large-scale infrastructure, systems integration, and backend automation. Currently building AI-native applications and production-grade backend systems while deepening expertise in cloud-native architecture and full-stack development.
+Software Engineer and Full Stack Python Developer with **15+ years of experience** in large-scale infrastructure, systems integration, and backend automation. Currently building AI-native applications and production-grade backend systems. Deep expertise in cloud-native architecture and Backend Engineering.
 
-Background spans from national-scale network programmability at **Huawei** and **Oi Fiber Carrier** to backend/VoIP systems at **Stefanini** — giving me an unusually strong foundation in distributed systems, automation pipelines, and real-world production environments.
+Background spans from national-scale network programmability at **Huawei** and **Oi Fiber Carrier** to backend/VoIP systems at **Stefanini** — having a strong foundation in distributed systems, automation pipelines, and real-world production environments.
 
-**Seeking a Backend / Python Developer role in the EU.** Eligible for Employment Permit sponsorship (GEP / Critical Skills). Open to immediate relocation within Europe.
+**Seeking a Backend / Python Developer role in the EU Region.** Eligible for Employment Permit / Visa sponsorship (General Permit or Critical Skills). Open to immediate relocation within Europe.
 
 ---
 
@@ -145,7 +145,10 @@ I actively contribute to and follow:
 
 ## Engineering Philosophy
 
-> *Ship a working prototype as soon as possible. Validate the idea generating a proof of concept, learn quickly if the Product/Service can work and if have a consumer-base.*
+> *Ship a working prototype as soon as possible. Validate the idea for the Product/Service.
+> Generate proof of concept and learn quickly if this Product/Service have a market-fit.
+>   if positive; Continue and Improve
+>   if negative; Pivot.*
 
 - Ship fast, iterate later.
 - Ship quality code, learn continuously.
