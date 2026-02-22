@@ -145,17 +145,17 @@ I actively contribute to and follow:
 
 ## Engineering Philosophy
 
-> *Validate proof of concept, ship fast, without proof the work might be for nothing.*
+> *Ship a working prototype as soon as possible. Validate the idea generating a proof of concept, learn quickly if the Product/Service can work and if have a consumer-base.*
 
-- Ship fast, iterate later
-- Ship quality code, learn continuously
-- Ship value, not complexity
-- Ship the minimum that works; expand from proof
-- Ship working prototypes before architectural debates
+- Ship fast, iterate later.
+- Ship quality code, learn continuously.
+- Ship value, not complexity.
+- Ship the minimum that works; expand from proof.
+- Ship working prototypes before architectural debates.
 
 ---
 
-## Outside the Terminal
+## Outside the Desk
 
 Eating good food · Reading sci-fi books · Watching new movies · Still coding
 
