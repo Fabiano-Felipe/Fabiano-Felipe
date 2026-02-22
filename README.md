@@ -145,7 +145,7 @@ I actively contribute to and follow:
 
 ## Engineering Philosophy
 
-> *Ship fast to validate the proof of concept, without proof all your work may be for nothing.*
+> *Validate proof of concept, ship fast, without proof the work might be for nothing.*
 
 - Ship fast, iterate later
 - Ship quality code, learn continuously
