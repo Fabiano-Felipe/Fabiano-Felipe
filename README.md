@@ -5,7 +5,7 @@
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-fabianofelipe.com-0a0a0a?style=flat-square&logo=vercel&logoColor=white)](https://www.fabianofelipe.com/)
 [![Location](https://img.shields.io/badge/📍_Brasília,_Brazil-UTC--03:00-0a0a0a?style=flat-square)](https://www.fabianofelipe.com/)
-[![Open to Work](https://img.shields.io/badge/Open_to_Work-EU_Relocation_Ready-22c55e?style=flat-square)](mailto:)
+[![Open to Work](https://img.shields.io/badge/Python-AI_ML-22c55e?style=flat-square)](mailto:)
 [![Languages](https://img.shields.io/badge/🇬🇧_English-C2_Fluent-0a0a0a?style=flat-square)](https://www.fabianofelipe.com/)
 [![Languages](https://img.shields.io/badge/🇩🇪_German-B1_Intermediate-0a0a0a?style=flat-square)](https://www.fabianofelipe.com/)
 
