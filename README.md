@@ -145,7 +145,7 @@ I actively contribute to and follow:
 
 ## Engineering Philosophy
 
-> *Ship small, ship soon — perfect concepts can't be validated.*
+> *Ship fast to validate the proof of concept, without proof all your work may be for nothing.*
 
 - Ship fast, iterate later
 - Ship quality code, learn continuously
@@ -157,7 +157,7 @@ I actively contribute to and follow:
 
 ## Outside the Terminal
 
-Good food · Sci-fi books · New movies · Coding
+Eating good food · Reading sci-fi books · Watching new movies · Still coding
 
 ---
 
