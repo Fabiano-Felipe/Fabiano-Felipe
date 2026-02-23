@@ -145,7 +145,7 @@ I actively contribute to and follow:
 
 ## Engineering Philosophy
 
-> *Ship a working prototype as soon as possible. Validate the idea for the Product/Service. Generate proof of concept to learn quickly if this Product/Service have a strong or weak market-fit. If positive; Continue and Improve. If negative; Pivot.*
+> *Ship a working prototype as soon as possible. Validate the idea. Generate proof of concept to learn quickly if the Product have a market-fit. If positive; Continue and Improve. If negative; Pivot.*
 
 - Ship fast, iterate later.
 - Ship quality code, learn continuously.
