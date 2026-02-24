@@ -1,7 +1,7 @@
 <div align="center">
 
 # Fabiano Sousa
-### Full-Stack Developer · Backend Engineer · AI-Native Engineer
+### Full-Stack Developer · Backend Engineer · AI-Native Engineer · Python Developer
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-fabianofelipe.com-0a0a0a?style=flat-square&logo=vercel&logoColor=white)](https://www.fabianofelipe.com/)
 [![Location](https://img.shields.io/badge/📍_Brasília,_Brazil-UTC--03:00-0a0a0a?style=flat-square)](https://www.fabianofelipe.com/)
@@ -15,11 +15,11 @@
 
 ## About Me
 
-Software Engineer and Full Stack Python Developer with **15 years of experience** in large-scale infrastructure, systems integration, and backend automation. Currently building AI-native applications and production-grade backend systems. Deep expertise in cloud-native architecture and AI-Native Systems Engineering.
+Software Engineer and Full Stack Python Developer with **10+ years of experience** in large-scale infrastructure, systems integration, and backend automation. Currently building AI-native applications and production-grade backend systems. Deep expertise in cloud-native architecture and AI-Native Systems Engineering.
 
 Background spans from national-scale network programmability at **Huawei** and **Oi Fiber Carrier** to backend/VoIP systems at **Stefanini** — having a strong foundation in distributed systems, automation pipelines, and real-world production environments.
 
-**Seeking a Backend / Python Developer role in the EU Region.** Eligible for Employment Permit / Visa sponsorship (General Permit or Critical Skills). Open to immediate relocation within Europe.
+**Open to Backend / Python Developer roles in the EU Region.** Eligible for Visa sponsorship (General Permit or Critical Skills). Open to immediate relocation within Europe.
 
 ---
 
