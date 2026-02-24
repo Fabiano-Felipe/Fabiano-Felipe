@@ -1,6 +1,6 @@
 <div align="center">
 
-# Fabiano Sousa
+# Fabiano Felipe
 ### Full-Stack Developer · Backend Engineer · AI-Native Engineer · Python Developer
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-fabianofelipe.com-0a0a0a?style=flat-square&logo=vercel&logoColor=white)](https://www.fabianofelipe.com/)
