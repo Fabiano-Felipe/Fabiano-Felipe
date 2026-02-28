@@ -114,6 +114,7 @@ Background spans from national-scale network programmability at large ISP (Inter
 | Certification | Issuer |
 |---------------|--------|
 | Solutions Architect Professional | AWS |
+| Project Management Professional | PMP |
 | HCIP – ICT Professional – Datacom | Huawei |
 | HCIA – ICT Associate – Datacom | Huawei |
 | OCI Architect Associate | Oracle Cloud |
