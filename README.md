@@ -19,7 +19,7 @@ Software Engineer and Full Stack Python Developer with **10+ years of experience
 
 Background spans from national-scale network programmability at large ISP (Internet Providers) to backend/Voice Automation Systems at multinational corporations — strong foundation in distributed systems, automation pipelines, and real-world production environments.
 
-**Open to Backend / Python Developer roles in the EU Region.** Eligible for Visa sponsorship (General Permit / Critical Skills). Open to immediate relocation within Europe.
+**Open to Backend / Python Developer roles in the EU Region.** Eligible for Visa sponsorship. Open to immediate relocation within Europe.
 
 ---
 
