@@ -50,6 +50,17 @@ Background spans from national-scale network programmability at large ISP (Inter
 
 ---
 
+
+### 🔥 GitHub Stats
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=Fabiano-Felipe&theme=highcontrast&hide_border=true" alt="GitHub Streak" />
+</p>
+
+
+
+---
+
 ## Work Experience
 
 ### 🏢 Huawei Technologies — Senior Network Automation Engineer
