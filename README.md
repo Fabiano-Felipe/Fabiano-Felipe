@@ -125,11 +125,11 @@ Background spans from national-scale network programmability at large ISP (Inter
 
 I actively contribute to and follow:
 
-- **[Bitcoin](https://github.com/bitcoin/bitcoin)** — Core protocol
+- **[Open WebUI](https://github.com/open-webui/open-webui)** — Open-source AI interface
 - **[Anki](https://github.com/ankitects/anki)** — Spaced repetition platform
 - **[OpenClaw](https://github.com/pjasicek/OpenClaw)** — Game engine
 - **[HuggingFace](https://github.com/huggingface)** — ML/AI ecosystem
-
+  
 ---
 
 ## 2026 Focus
