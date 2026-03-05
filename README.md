@@ -175,7 +175,7 @@ Eating good food · Reading sci-fi books · Watching new movies · Still coding
 
 <div align="center">
 
-**Available for Backend / Python / Full-Stack roles in the EU**
+**Available for Backend / Python / Full-Stack roles**
 
 [![Portfolio](https://img.shields.io/badge/View_Portfolio-fabianofelipe.com-0a0a0a?style=for-the-badge)](https://www.fabianofelipe.com/)
 
