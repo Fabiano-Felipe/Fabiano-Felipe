@@ -74,7 +74,7 @@ Background spans from national-scale network programmability at large ISP (Inter
 
 ---
 
-### 🏢 Oi Fiber Carrier — Network Automation & Systems Integration Specialist
+### 🏢 Oi Fiber Carrier — Network Automation & Systems Engineer
 `Jul 2023 – Dec 2024`
 
 - Automated recurring configuration tasks and network audit workflows using **Python** and **Bash**, improving team efficiency in a high-volume NOC environment
@@ -93,7 +93,7 @@ Background spans from national-scale network programmability at large ISP (Inter
 
 ---
 
-### 🏢 Stefanini — Backend & VoIP Systems Developer
+### 🏢 Stefanini — Backend & Systems Developer
 `Sep 2017 – Nov 2022`
 
 - Automated complex call-routing logic in Asterisk using dialplan and AGI scripting (**Python/PHP**), building custom IVR flows and integration hooks
@@ -102,7 +102,7 @@ Background spans from national-scale network programmability at large ISP (Inter
 
 ---
 
-### 🏢 A7 Telecom — Systems & Infrastructure Technician
+### 🏢 A7 Telecom — Systems & Infrastructure Engineer
 `Jan 2012 – Sep 2017`
 
 - Installed and commissioned datacom equipment and PABX systems across enterprise sites
@@ -138,7 +138,7 @@ I actively contribute to and follow:
 
 - **[Open WebUI](https://github.com/open-webui/open-webui)** — Open-source AI interface
 - **[Anki](https://github.com/ankitects/anki)** — Spaced repetition platform
-- **[OpenClaw](https://github.com/pjasicek/OpenClaw)** — Game engine
+- **[OpenClaw](https://github.com/pjasicek/OpenClaw)** — Local AI engine
 - **[HuggingFace](https://github.com/huggingface)** — ML/AI ecosystem
   
 ---
@@ -150,7 +150,6 @@ I actively contribute to and follow:
 ▸ Mastering LLM integrations & agentic patterns
 ▸ AWS cloud deployments at scale
 ▸ Expanding open source contributions
-▸ Relocating to Europe
 ```
 
 ---
