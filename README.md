@@ -15,11 +15,33 @@
 
 ## About Me
 
-Software Engineer and Full Stack Python Developer with **10+ years of experience** in large-scale infrastructure, systems integration, and backend automation. Currently building AI-native applications and production-grade backend systems. Deep expertise in cloud-native architecture and AI-Native Systems Engineering.
+Software engineer specializing in Python backend development, distributed infrastructure, and cloud systems, with over a decade of experience engineering and operating large-scale network environments in enterprise and service-provider contexts. My work sits at the intersection of software engineering, cloud infrastructure, and networking, building automation systems, backend services, and infrastructure tooling that improve reliability, scalability, and operational efficiency. Years of operating mission-critical networks at national scale gave me a firsthand understanding of high-availability architectures and distributed systems that I now bring directly into software development. The result is a hybrid perspective that bridges infrastructure and code in ways that neither discipline achieves alone. Beyond engineering, I have worked in technical leadership and program delivery, coordinating complex initiatives across multidisciplinary teams, from architecture and planning through large-scale deployment.
 
-Background spans from national-scale network programmability at large ISP (Internet Providers) to backend/Voice Automation Systems at multinational corporations — strong foundation in distributed systems, automation pipelines, and real-world production environments.
+**Tech Stack – Core Technologies**
+
+**Languages** 
+Python • JavaScript • TypeScript • Bash
+
+**Backend Development**
+Django • FastAPI • REST API Design • Backend Systems Architecture
+
+**Databases & Data Systems**
+PostgreSQL • Redis
+
+**Cloud & Deployment**
+AWS • Docker • Kubernetes • Linux
+
+**Infrastructure & Networking** 
+IP Network Engineering • Datacenter Infrastructure BGP • OSPF • MPLS
+
+**Reliability & Systems Engineering** 
+DevOps • High-Availability Architectures Site Reliability Engineering (SRE) Monitoring & Observability (Prometheus, Grafana)
+
+**AI | ML & Modern Software Development** 
+AI-Native Development (Building AI-integrated Services) AI-Enabled Development (Claude Code, Codex, Cursor, AntiGravity) N8N (No code tools)
 
 Available to full-time and contract opportunities. Eligible for visa sponsorship. **Open to Backend / Python Developer roles.** 
+Full Stack Developer; Backend Engineer; Python Developer; Distributed Systems; Cloud Infrastructure; Platform Engineering; Infrastructure Automation. AI-Native Development.
 
 ---
 
