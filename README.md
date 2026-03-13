@@ -38,9 +38,10 @@ IP Network Engineering • Datacenter Infrastructure BGP • OSPF • MPLS
 DevOps • High-Availability Architectures Site Reliability Engineering (SRE) Monitoring & Observability (Prometheus, Grafana)
 
 **AI | ML & Modern Software Development** 
-AI-Native Development (Building AI-integrated Services) AI-Enabled Development (Claude Code, Codex, Cursor, AntiGravity) N8N (No code tools)
+AI-Native Development (Building software with AI-integrated services) AI-Enabled Development (Claude Code, Codex, Cursor, AntiGravity) N8N (No code tools)
 
-Available to full-time and contract opportunities. Eligible for visa sponsorship. **Open to Backend / Python Developer roles.** 
+Available to full-time and contract opportunities. Eligible for visa sponsorship. **Open to Backend / Python Developer roles.**
+
 Full Stack Developer; Backend Engineer; Python Developer; Distributed Systems; Cloud Infrastructure; Platform Engineering; Infrastructure Automation. AI-Native Development.
 
 ---
