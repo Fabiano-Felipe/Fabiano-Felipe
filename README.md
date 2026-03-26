@@ -86,7 +86,7 @@ Full Stack Developer; Backend Engineer; Python Developer; Distributed Systems; C
 
 ## Work Experience
 
-### 🏢 Huawei Technologies — Senior Network Automation Engineer
+### 🏢 Huawei Technologies — Network Automation Engineer
 `Dec 2024 – Present`
 
 - Developed and maintained Python automation scripts managing configuration deployment across **18,000+ switches** and **7,000+ sites**, eliminating manual effort on large-scale rollouts
